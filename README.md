@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YanisWebDev
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning JS - nodeJs - Express - MongoDB - mongoose
+- 🌱 I’m currently learning JS - nodeJs - Express - MongoDB - mongoose -Postgre - ORM sequelize
 - 💞️ I’m looking to collaborate on web dev backend projects
 - 📫 How to reach me med.aderkaoui@gmail.com
 
